@@ -407,8 +407,12 @@ I enjoy learning, building and sharing ideas with the developer community.
 ---
 
 # 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-> ⚠️ This image will appear **after** we enable GitHub Actions.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laxsanya/Laxsanya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 <p align="center">
 
